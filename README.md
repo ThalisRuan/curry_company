@@ -93,7 +93,7 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
   
  Painel online, hoespedado em uma Cloud e disponível para aceasso em qualquer dispositibvo.
  
- O painel pode ser acessado atrávez desse link: [https://https://pedrosafelipe-curry-company-home-o6gdob.streamlit.app/]
+ O painel pode ser acessado atrávez desse link: (PAINEL EM CONTRUÇÃO)
  
  # 6. Conclusão
  
